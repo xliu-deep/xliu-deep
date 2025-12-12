@@ -23,7 +23,7 @@ Currently based in the **San Francisco Bay Area** and actively looking for **Mac
 
 ### 🔬 Highlighted Projects
 
-#### 🧪 [RAPID](https://github.com/xliu-deep/RAPID)
+#### 🧪 [MPAP](https://github.com/xliu-deep/mpap)
 > **Microplastic Pollutant Adsorption Prediction**
 >
 > A multimodal deep learning framework (GNN + Siamese Network) that integrates molecular graph embeddings and environmental factors to predict microplastic-pollutant adsorption.
