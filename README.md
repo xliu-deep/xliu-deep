@@ -50,5 +50,5 @@ Currently based in the **San Francisco Bay Area** and actively looking for **Mac
 
 ### 📫 Connect with Me
 * **LinkedIn**: xxxx 
-* **Email**: csxyllx@gmail.com  
+* **Email**: rachelliu550@gmail.com  
 * **Google Scholar**: https://scholar.google.com/citations?user=5QE9LyIAAAAJ&hl=zh-CN&authuser=1
